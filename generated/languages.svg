@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 44.198%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 30.261%;" class="progress-item"></span><span style="background-color: #e34c26;width: 11.744%;" class="progress-item"></span><span style="background-color: #563d7c;width: 8.282%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.844%;" class="progress-item"></span><span style="background-color: #a91e50;width: 2.414%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.233%;" class="progress-item"></span><span style="background-color: #ecdebe;width: 0.018%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.006%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 44.200%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 30.263%;" class="progress-item"></span><span style="background-color: #e34c26;width: 11.745%;" class="progress-item"></span><span style="background-color: #563d7c;width: 8.282%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.844%;" class="progress-item"></span><span style="background-color: #a91e50;width: 2.415%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.233%;" class="progress-item"></span><span style="background-color: #ecdebe;width: 0.018%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -208,15 +208,6 @@ viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Roff</span>
 <span class="percent">0.02%</span>
-</li>
-
-
-<li style="animation-delay: 1200ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dea584;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Rust</span>
-<span class="percent">0.01%</span>
 </li>
 
 
